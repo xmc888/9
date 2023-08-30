@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：2023-08-30 17:15:58
+# 创建时间：2023-08-30 17:25:34
 # 使用模版：V2RaySE 默认模版
-# 节点数量：63
+# 节点数量：61
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -21,24 +21,24 @@ dns:
     - tls://dns.google:853
 
 proxies:
-  - {"name":"defaultName_1","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50409,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_2","type":"ssr","server":"iepl-zh.safetelescope.cc","port":11808,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_3","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":20001,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_4","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50805,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_5","type":"ssr","server":"iepl-zh.safetelescope.cc","port":11805,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_6","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50803,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_7","type":"ssr","server":"iepl-zh.safetelescope.cc","port":11803,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_8","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":21702,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_9","type":"ssr","server":"iepl-zh.safetelescope.cc","port":11801,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_10","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50801,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_11","type":"ssr","server":"iepl-zh.safetelescope.cc","port":11804,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_12","type":"ssr","server":"hn-01.cctelescope.xyz","port":41998,"password":"","cipher":"aes-256-cfb","obfs":"t���ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ��م�h�ɥ�`�)�5Qg�rg\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u0015t�X�ӝ���]VL�]\u0003","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_13","type":"ssr","server":"wz.safetelescope.cc","port":10020,"password":"","cipher":"aes-256-cfb","obfs":"tls�ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ���h���i��`�)�5�\u0015���\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u0015t�/�ӝ���]VL�]\u000f","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_14","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":30003,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_15","type":"ssr","server":"wz.safetelescope.cc","port":62307,"password":"","cipher":"aes-256-cfb","obfs":"tls�ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ���i���%\u001dT�e]1`�)�;�F3\u0012g\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u001f�ӞX�ӝ���]VL�]>","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_16","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":21563,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_17","type":"ssr","server":"wz.safetelescope.cc","port":28368,"password":"","cipher":"aes-256-cfb","obfs":"tls�ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ���1�,�d�a`�)�9Q\u0014ě�\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u0015t�/�ӝ���]VL�]\u000f","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_18","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50899,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_1","type":"ssr","server":"iepl-zh.safetelescope.cc","port":11808,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_2","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":20001,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_3","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50805,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_4","type":"ssr","server":"iepl-zh.safetelescope.cc","port":11805,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_5","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50803,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_6","type":"ssr","server":"iepl-zh.safetelescope.cc","port":11803,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_7","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":21702,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_8","type":"ssr","server":"iepl-zh.safetelescope.cc","port":11801,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_9","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50801,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_10","type":"ssr","server":"iepl-zh.safetelescope.cc","port":11804,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_11","type":"ssr","server":"hn-01.cctelescope.xyz","port":41998,"password":"","cipher":"aes-256-cfb","obfs":"t���ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ��م�h�ɥ�`�)�5Qg�rg\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u0015t�X�ӝ���]VL�]\u0003","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_12","type":"ssr","server":"wz.safetelescope.cc","port":10020,"password":"","cipher":"aes-256-cfb","obfs":"tls�ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ���h���i��`�)�5�\u0015���\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u0015t�/�ӝ���]VL�]\u000f","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_13","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":30003,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_14","type":"ssr","server":"wz.safetelescope.cc","port":62307,"password":"","cipher":"aes-256-cfb","obfs":"tls�ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ���i���%\u001dT�e]1`�)�;�F3\u0012g\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u001f�ӞX�ӝ���]VL�]>","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_15","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":21563,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_16","type":"ssr","server":"wz.safetelescope.cc","port":28368,"password":"","cipher":"aes-256-cfb","obfs":"tls�ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ���1�,�d�a`�)�9Q\u0014ě�\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u0015t�/�ӝ���]VL�]\u000f","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_17","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50899,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_18","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":21738,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
   - {"name":"defaultName_19","type":"ssr","server":"iepl-zh.safetelescope.cc","port":11899,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
   - {"name":"defaultName_20","type":"ssr","server":"ieplszhk-03.telescopes.work","port":49036,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
   - {"name":"defaultName_21","type":"ssr","server":"hn-01.cctelescope.xyz","port":62400,"password":"","cipher":"aes-256-cfb","obfs":"t���ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ���-\\��Э��ѵi`�+�d�E�\"g\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3_�\u0018UӞX�ӝ���]VL�]\u000f","protocol":"auth_aes128_md5"}
@@ -46,21 +46,21 @@ proxies:
   - {"name":"defaultName_23","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50744,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
   - {"name":"defaultName_24","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":21261,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
   - {"name":"defaultName_25","type":"ssr","server":"wz.safetelescope.cc","port":10006,"password":"","cipher":"aes-256-cfb","obfs":"tls�ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ���%���i��`�)�5�$Л�\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u0015t�/�ӝ���]VL�]\u000f","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_26","type":"ssr","server":"iepl-zh.safetelescope.cc","port":11658,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_27","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":21632,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_26","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":21632,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_27","type":"ssr","server":"wz.safetelescope.cc","port":10005,"password":"","cipher":"aes-256-cfb","obfs":"tls�ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ�����<�i��`�)�5�5��\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u0015t�/�ӝ���]VL�]\u000f","protocol":"auth_aes128_md5"}
   - {"name":"defaultName_28","type":"ssr","server":"sh163.safetelescope.cc","port":62306,"password":"","cipher":"aes-256-cfb","obfs":"�ѱ�ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ�����<�i��`�)�5��S�g\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u0015��X�ӝ���]VL�]\u000f","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_29","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50058,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_30","type":"ssr","server":"iepl-zh.safetelescope.cc","port":11919,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_31","type":"ssr","server":"hn-01.cctelescope.xyz","port":62300,"password":"","cipher":"aes-256-cfb","obfs":"t���ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ������ՅM��e���1��\u0015�\u0014�d�D\u0017rg\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u000f�\u0019P�]\u0018UӞX�ӝ���]VL�]>","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_32","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":29404,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_33","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50402,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_34","type":"ssr","server":"wz.safetelescope.cc","port":22262,"password":"","cipher":"aes-256-cfb","obfs":"tls�ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ����=X�i��`�)�9QTԛ�\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u0015t�/�ӝ���]VL�]\u000f","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_35","type":"ssr","server":"iepl-zh.safetelescope.cc","port":11853,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_36","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50743,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_37","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50312,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_38","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":21078,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_39","type":"ssr","server":"iepl-zh.safetelescope.cc","port":11554,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_40","type":"ssr","server":"wz.safetelescope.cc","port":10019,"password":"","cipher":"aes-256-cfb","obfs":"tls�ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ����������`�)�5�$���\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u0015t�/�ӝ���]VL�]\u000f","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_29","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":21099,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_30","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50058,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_31","type":"ssr","server":"iepl-zh.safetelescope.cc","port":11919,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_32","type":"ssr","server":"hn-01.cctelescope.xyz","port":62300,"password":"","cipher":"aes-256-cfb","obfs":"t���ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ������ՅM��e���1��\u0015�\u0014�d�D\u0017rg\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u000f�\u0019P�]\u0018UӞX�ӝ���]VL�]>","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_33","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":29404,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_34","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50402,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_35","type":"ssr","server":"wz.safetelescope.cc","port":22262,"password":"","cipher":"aes-256-cfb","obfs":"tls�ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ����=X�i��`�)�9QTԛ�\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u0015t�/�ӝ���]VL�]\u000f","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_36","type":"ssr","server":"iepl-zh.safetelescope.cc","port":11853,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_37","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50743,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_38","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50312,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_39","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":21078,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_40","type":"ssr","server":"iepl-zh.safetelescope.cc","port":11554,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
   - {"name":"defaultName_41","type":"ssr","server":"wz.safetelescope.cc","port":46562,"password":"","cipher":"aes-256-cfb","obfs":"tls�ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ�������eŜ�hɡ`�)�;�D��g\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u001f�ӞX�ӝ���]VL�]>","protocol":"auth_aes128_md5"}
   - {"name":"defaultName_42","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50306,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
   - {"name":"defaultName_43","type":"ssr","server":"iepl-zh.safetelescope.cc","port":11600,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
@@ -69,21 +69,19 @@ proxies:
   - {"name":"defaultName_46","type":"ssr","server":"sh163.safetelescope.cc","port":62301,"password":"","cipher":"aes-256-cfb","obfs":"�ѱ�ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ��Ո���i��`�)�9S䗢g\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u0015��X�ӝ���]VL�]\u000f","protocol":"auth_aes128_md5"}
   - {"name":"defaultName_47","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50354,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
   - {"name":"defaultName_48","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":21565,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_49","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50802,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_50","type":"ssr","server":"wz.safetelescope.cc","port":10007,"password":"","cipher":"aes-256-cfb","obfs":"tls�ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ���d���ɴ�`�)�5�T���\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u0015t�/�ӝ���]VL�]\u000f","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_51","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50578,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_52","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":21637,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_53","type":"ssr","server":"hn-01.cctelescope.xyz","port":62304,"password":"","cipher":"aes-256-cfb","obfs":"t���ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ���d��Չŵ`�)�5�'�\u0012g\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u0015t�X�ӝ���]VL�]\u0003","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_54","type":"ssr","server":"hn-01.cctelescope.xyz","port":62402,"password":"","cipher":"aes-256-cfb","obfs":"t���ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ���e�$�ѵh�e��`�+�d�F7rg\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3_�\u0018UӞX�ӝ���]VL�]\u000f","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_55","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":21164,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_56","type":"ssr","server":"wz.safetelescope.cc","port":62302,"password":"","cipher":"aes-256-cfb","obfs":"tls�ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ���eŜսԼՅM�`�)�7��Rg\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u001f�ӞX�ӝ���]VL�]>","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_57","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":21588,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_58","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50801,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_59","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50568,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_60","type":"ssr","server":"sh163.safetelescope.cc","port":62305,"password":"","cipher":"aes-256-cfb","obfs":"�ѱ�ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ���0�\u0014���`����`��d�E\u0017�g\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T?�]\u0018UӞX�ӝ���]VL�]>","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_61","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50567,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_62","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50326,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
-  - {"name":"defaultName_63","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50568,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_49","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50578,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_50","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":21637,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_51","type":"ssr","server":"hn-01.cctelescope.xyz","port":62304,"password":"","cipher":"aes-256-cfb","obfs":"t���ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ���d��Չŵ`�)�5�'�\u0012g\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u0015t�X�ӝ���]VL�]\u0003","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_52","type":"ssr","server":"hn-01.cctelescope.xyz","port":62402,"password":"","cipher":"aes-256-cfb","obfs":"t���ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ���e�$�ѵh�e��`�+�d�F7rg\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3_�\u0018UӞX�ӝ���]VL�]\u000f","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_53","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":21164,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_54","type":"ssr","server":"wz.safetelescope.cc","port":62302,"password":"","cipher":"aes-256-cfb","obfs":"tls�ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ���eŜսԼՅM�`�)�7��Rg\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T3WF\u001f�ӞX�ӝ���]VL�]>","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_55","type":"ssr","server":"iepl-hn.cctelescope.xyz","port":21588,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_56","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50801,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_57","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50568,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_58","type":"ssr","server":"sh163.safetelescope.cc","port":62305,"password":"","cipher":"aes-256-cfb","obfs":"�ѱ�ĸ�}ѥ����}��Ѡ�\u0015��UQd�5QX�I\u0004��ɕ��ɭ���0�\u0014���`����`��d�E\u0017�g\u0007&�F�\u0006\u0017&\u0016��צ7��D\u0013f\u00135df5w�5$Dc5Frf�&g7\u0006\u0017&\u0016�Օw\u0006�T?�]\u0018UӞX�ӝ���]VL�]>","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_59","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50567,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_60","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50326,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
+  - {"name":"defaultName_61","type":"ssr","server":"ieplszhk-03.telescopes.work","port":50568,"password":"","cipher":"dummy","obfs":"undefined","protocol":"auth_aes128_md5"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -151,8 +149,6 @@ proxy-groups:
       - defaultName_59
       - defaultName_60
       - defaultName_61
-      - defaultName_62
-      - defaultName_63
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -220,8 +216,6 @@ proxy-groups:
       - defaultName_59
       - defaultName_60
       - defaultName_61
-      - defaultName_62
-      - defaultName_63
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -289,8 +283,6 @@ proxy-groups:
       - defaultName_59
       - defaultName_60
       - defaultName_61
-      - defaultName_62
-      - defaultName_63
   - name: 📲 电报信息
     type: select
     proxies:
@@ -357,8 +349,6 @@ proxy-groups:
       - defaultName_59
       - defaultName_60
       - defaultName_61
-      - defaultName_62
-      - defaultName_63
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -425,8 +415,6 @@ proxy-groups:
       - defaultName_59
       - defaultName_60
       - defaultName_61
-      - defaultName_62
-      - defaultName_63
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -493,8 +481,6 @@ proxy-groups:
       - defaultName_59
       - defaultName_60
       - defaultName_61
-      - defaultName_62
-      - defaultName_63
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -578,8 +564,6 @@ proxy-groups:
       - defaultName_59
       - defaultName_60
       - defaultName_61
-      - defaultName_62
-      - defaultName_63
 
 rules:
 # 本地/局域网地址
